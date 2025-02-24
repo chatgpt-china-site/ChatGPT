@@ -1,4 +1,4 @@
-# ChatGPT 中文版：国内访问攻略（支持 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1，无需翻墙）【2025/02/21】
+# ChatGPT 中文版：国内访问攻略（支持 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1，无需翻墙）【2025/02/25】
 
 国内可以轻松使用的 **[ChatGPT 中文版](https://chat.lify.vip)**，**无需翻墙，支持 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1 及中文版功能**。
 
@@ -22,13 +22,13 @@
 
 以下是我们精选的国内优质 **ChatGPT 中文版镜像网站**，无需翻墙即可使用：
 
-1. **[www.yixiaai.com](https://www.yixiaai.com)**
+1. **[chat.yixiaai.com](https://chat.yixiaai.com)**
    - **支持版本**：GPT-4, GPT-3.5, GPT-4o, o1, o3 和 DeepSeek R1
    - **免费额度**：有
    - **功能亮点**：支持 AI 绘画、AI 助手、AI 插件、AI PPT 等
    - **综合评分**：⭐⭐⭐⭐⭐
 
-2. **[chat.lify.vip](https://chat.lify.vip)**
+2. **[chat.lify.vip](https://www.yixiaai.com)**
    - **支持版本**：GPT-4, GPT-3.5, GPT-4o, 4o mini, o1, o3 和 DeepSeek R1
    - **免费额度**：有
    - **功能亮点**：支持多模型，AI 写作、AI 编程、AI 办公
