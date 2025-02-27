@@ -1,4 +1,4 @@
-# ChatGPT 中文版：国内访问攻略（支持 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1，无需翻墙）【2025/02/25】
+# ChatGPT 中文版：国内访问攻略（支持 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1，无需翻墙）【2025/02/28】
 
 国内可以轻松使用的 **[ChatGPT 中文版](https://chat.lify.vip)**，**无需翻墙，支持 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1 及中文版功能**。
 
